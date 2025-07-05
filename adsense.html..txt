@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head><meta charset="UTF-8"><title>AdSense Embed</title></head>
+  <body>
+    <!-- Client's AdSense Code -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8880621705390497"
+     crossorigin="anonymous"></script>
+<!-- ad 1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8880621705390497"
+     data-ad-slot="9794177034"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  </body>
+</html>
